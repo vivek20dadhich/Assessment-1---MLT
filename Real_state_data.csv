@@ -1,0 +1,20 @@
+Rooms_in_BHK,Number_of_buildings,Super_build_up_area,location,price_in_cr,Emi_available,Emi_amount_in_lac_per_month,Furnished,Householder,Car_parking_space,Outskirts,Floor_number,Total_floors,Water_availability_24X7,Number_of_bathrooms,Balconies,Constructed_or_Under_construction,Possession,Power_back_up,Pet_allowed,Facing,Purchased
+2,3,781,Bandra,5.75,Yes,3.36,Unfurnished,Ownership,Yes,No,nan,115,Yes,nan,nan,Constructed,2023,nan,Yes,nan,no
+2,3,547,Kanjurmarg West,1.33,Yes,nan,Unfurnished,Ownership,Yes,No,20,24,Yes,2,nan,Under Construction,2022,no,Yes,East,yes
+1,3,510,Kalyan Complex,1.8,Yes,nan,Furnished,Ownership,No,No,13,24,Yes,1,2,Constructed,2021,no ,Yes,West,yes
+3,9,1280,"Chandivali, Powai",2.75,Yes,1.61,Unfurnished,Ownership,Yes,No,8,14,Yes,3,2,Under Construction,2024,nan,Yes,North,no
+3,3,740,Powai vihar,nan,No,0.35,Furnished,Rent,Yes,Yes,7,8,Yes,2,1,Constructed,2021,no,Yes,West,yes
+1,7,700,Mira Road East,0.6,Yes,0.3742,Semi-furnished,Ownership,Yes,No,9,17,nan,2,3,Under Construction,2022,no,Yes,nan,no
+4,nan,2500,Thane,nan,No,1,Semi-furnished,Rent,Yes,No,7,27,Yes,nan,1,Constructed,2021,yes,Yes,North,yes
+4,2,2450,Goregaon West,4.15,Yes,2.91,Unfurnished,Ownership,Yes,No,12,35,Yes,3,6,Constructed,2021,yes,Yes,nan,no
+2,5,527,Thane,1.02,Yes,1.02,Unfurnished,Ownership,No,No,8,12,Yes,nan,3,Under Construction,2022, no ,No,nan,yes
+1,1,450,Khar West,nan,Yes,0.47,Furnished,Rent,No,No,1,3,Yes,1,0,Constructed,2021,yes,No,East,yes
+1,4,755,Bandra east,nan,Yes,0.2,Furnished,Rent,No,No,2,3,No,2,0,Constructed,2021,no,Yes,nan,yes
+2,nan,750,Borivali West,2,Yes,1.17,Unfurnished,Ownership,Yes,No,6,12,Yes,2,0,Constructed,2021,nan,Yes,North,no
+3,nan,1250,"Virar, West",nan,Yes,0.15,Unfurnished,Rent,Yes,No,14,15,Yes,3,3,Constructed,2021,nan,No,nan,no
+3,nan,2000,Worli,nan,Yes,1.5,Semi-furnished,Rent,Yes,Yes,17,17,Yes,3,0,Constructed,2021,nan,Yes,nan,yes
+1,1,550,Khar West,nan,Yes,0.42,Furnished,Rent,Yes,No,5,5,Yes,1,0,Constructed,2021,nan,No,East,yes
+2,nan,895,Virar,0.37,Yes,0.23,Semi Furnished,Ownership,No,No,7,7,nan,2,2,Constructed,2021,yes,Yes,nan,no
+2,nan,664,Virar,0.45,Yes,0.28,Semi Furnished,Ownership,No,No,7,15,nan,2,3,Constructed,2021,yes,Yes,North-East,no
+4,5,3549,Agripada,32,Yes,22.46,Furnished,Ownership,Yes,No,34,36,Yes,6,1,Constructed,2020,yes,Yes,nan,yes
+3,nan,1450,Virar,0.68,Yes,0.42,Unfurnished,Ownership,Yes,No,1,19,nan,3,4,Constructed,2021,yes,Yes,nan,no
